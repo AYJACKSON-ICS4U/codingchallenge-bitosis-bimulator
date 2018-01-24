@@ -1,6 +1,6 @@
 # CodingChallenge
 
-**All files/code used in this strand and a screenshot of the outcome are in this repository.
+**All files/code used in this strand and a screenshot of the outcome are in this repository.**
 
 Coding Challenge Starter Repo
 
