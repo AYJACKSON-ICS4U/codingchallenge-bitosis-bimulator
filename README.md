@@ -2,7 +2,7 @@
 
 **All files/code used in this strand and a screenshot of the outcome are in this repository.**
 
-Group Members: Anees, Carter, Tim, Cooper
+**Group Members: Anees, Carter, Tim, Cooper**
 
 Coding Challenge Starter Repo
 
